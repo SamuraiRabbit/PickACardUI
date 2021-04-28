@@ -46,5 +46,5 @@ namespace PickACardUI
             // If we haven't returned yet return Diamonds
             return "Diamonds";
         }
-    }  
+    } 
 }
